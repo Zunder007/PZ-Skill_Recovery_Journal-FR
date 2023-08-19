@@ -1,0 +1,3 @@
+ItemName_FR = {
+    ItemName_Base.SkillRecoveryJournal = "Journal relié",
+}
