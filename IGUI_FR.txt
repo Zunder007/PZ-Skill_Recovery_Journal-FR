@@ -20,7 +20,11 @@ IGUI_FR = {
     IGUI_Rename = "Renommer",
     IGUI_JournalXPUsedUp = "L'écriture est trop tordue pour être lue... (XP épuisé)",
 
-    IGUI_Bonus_XP_Warning = "Ce personnage gagne un bonus d'XP en fonction de ses traits ou de sa profession. La retranscription du bonus d'XP est désactivée.",
-    IGUI_TV_XP_Warning = "L'XP gagné à partir d'émissions de télévision et de cassettes VHS est désactivé.",
+    IGUI_ItemCat_SkillJournal = "Journal de compétence",
+    IGUI_GainedXPText = "Expérience gagnée"
+    IGUI_OLDXP_WARNING = "Attention : ce journal contient des "ANCIENS" Points d'Expérience, antérieurs à la ou aux mises à jour. Le journal a eu quelques problèmes au départ. Ce message d'avertissement disparaîtra au fur et à mesure que ce journal sera utilisé.",
+    IGUI_OneTimeUse_Warning = "Option du mode Bac à Sable pour l'expérience utilisée lorsque la lecture est activée.",
+/*  IGUI_Bonus_XP_Warning = "Ce personnage gagne un bonus d'XP en fonction de ses traits ou de sa profession. La retranscription du bonus d'XP est désactivée.", */
+    IGUI_TV_XP_Warning = "L'Expérience gagnée à partir d'émissions de télévision et de cassettes VHS est désactivée.",
     IGUI_Rename_Warning = "Renommez ce journal pour désactiver cette alerte.",
 }
